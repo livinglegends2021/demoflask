@@ -8,7 +8,7 @@ def home():
 
 @application.route("/page")
 def page():
-    return 'This is my page'
+    return 'This is my pageeee'
 
 if __name__=="__main__":
     application.run()
